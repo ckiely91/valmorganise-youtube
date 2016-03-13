@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Valmorganise YouTube",
+  "description": "Valmorganise your YouTube videos.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "css": ["styles.css"],
+      "js": ["jquery.js","main.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "injected/stopVideo.js",
+    "injected/startVideo.js",
+    "resources/valmorgan.mp4",
+    "main.html"
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
