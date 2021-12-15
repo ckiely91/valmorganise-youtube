@@ -1,5 +1,7 @@
 (function() {
 	console.log('stopping video');
-	var player = document.getElementById('movie_player');
-	player.stopVideo();
+	var player = document.getElementById("player").querySelector("video");
+	if (player) {
+		player.pause();
+	}
 })();

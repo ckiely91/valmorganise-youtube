@@ -8,17 +8,13 @@ But the silver screen still has an edge. Cinema-goers the world over still show 
 
 So I decided it's time to bring that magic to the home. **Valmorganise YouTube** is a handy Chrome extension that allows you to experience the Val Morgan Pre-Show promo before *every YouTube video you watch*.
 
-## Demo
-
-Watch a recording of this in action here: https://www.youtube.com/watch?v=TLjqiHTyVYM
-
 ## Installation
 
 The Establishment is stuck in its old ways and is resistant to change. So for now, this is an unofficial Chrome extension. Follow these steps to install it:
 
-1. Download [valmorganise-youtube.crx](https://drive.google.com/file/d/0B6NlrMdaqeJvY3g2b1FVQ2xnd2s/view?usp=sharing).
+1. Download [valmorganise-youtube.zip](https://drive.google.com/file/d/1g1iSQ6JFX-_pkq-BJz01SB3ppnlwOZmH/view?usp=sharing).
 2. Navigate to `chrome://extensions` in your Google Chrome browser.
 3. Enable "Developer Mode".
-4. Drag the `valmorganise-youtube.crx` file into your browser window.
+4. Drag the `valmorganise-youtube.zip` file into your browser window.
 
 Now you can navigate to any video on youtube.com and enjoy the deeper engagement.

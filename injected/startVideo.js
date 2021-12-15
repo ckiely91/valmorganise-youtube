@@ -1,5 +1,7 @@
 (function() {
 	console.log('starting video');
-	var player = document.getElementById('movie_player');
-	player.playVideo();
+	var player = document.getElementById("player").querySelector("video");
+	if (player) {
+		player.play();
+	}
 })();
